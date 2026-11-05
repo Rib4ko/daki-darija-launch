@@ -13,7 +13,7 @@ const HeroSection = () => (
       {/* Backed by badge */}
       <div className="inline-flex items-center gap-4 px-6 py-3 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm mb-8 animate-fade-up">
         <span className="text-sm uppercase tracking-widest text-muted-foreground font-medium">Backed by</span>
-        <img src={um6pLogo} alt="UM6P logo" className="h-10 object-contain" />
+        <img src={um6pLogo} alt="UM6P logo" className="h-20 object-contain" />
       </div>
 
       <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6 animate-fade-up">
